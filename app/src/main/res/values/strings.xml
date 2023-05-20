@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meal_App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_meal_category">choose_meal_category</string>
+    <string name="meal_image">meal_image</string>
+</resources>
